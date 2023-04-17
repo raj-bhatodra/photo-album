@@ -1,0 +1,10 @@
+version: "3"
+services:
+  web:
+    image: python
+    ports:
+      - "8000:8000"
+    working_dir: /app
+    volumes:
+      - .:/app
+    command: sh -c "pip3 install -r requirements.txt --no-cache-dir && python3 manage.py runserver 0.0.0.0:8000"
