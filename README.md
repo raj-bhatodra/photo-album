@@ -1,6 +1,6 @@
 # photo-album
 
-This is a Django project that aims to [insert project purpose/goal].
+This is a Django project that aims to create photo-album Web-Application.
 
 ## Installation
 
