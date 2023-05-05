@@ -13,7 +13,7 @@ To install and run the project, follow these steps:
 5. Create the database: `python manage.py migrate`
 6. Run the development server: `python manage.py runserver`
 
-## Using Docker
+## Using Docker Image
 
 To run the project using Docker, follow these steps:
 
