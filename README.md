@@ -4,7 +4,7 @@ This is a Django project that aims to create photo-album Web-Application.
 
 ## Installation
 
-To install and run the project, follow these steps:
+To install and run the Application, follow these steps:
 
 1. Clone the repository: `git clone https://github.com/raj-bhatodra/photo-album.git`
 2. Create a virtual environment: `python3 -m venv .env`
