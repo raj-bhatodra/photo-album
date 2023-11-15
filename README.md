@@ -15,7 +15,7 @@ To install and run the project, follow these steps:
 
 ## Using Docker Image
 
-To run the project using Docker, follow these steps:
+To run the Application using Docker, follow these steps:
 
 1. Clone the repository: `git clone https://github.com/raj-bhatodra/photo-album.git`
 2. Build the Docker image: `docker build -t photo-album .`
